@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/json2csv.iml" filepath="$PROJECT_DIR$/json2csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-processor-nar/nifi-processor-nar.iml" filepath="$PROJECT_DIR$/nifi-processor-nar/nifi-processor-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-processor-processors/nifi-processor-processors.iml" filepath="$PROJECT_DIR$/nifi-processor-processors/nifi-processor-processors.iml" />
+    </modules>
+  </component>
+</project>
